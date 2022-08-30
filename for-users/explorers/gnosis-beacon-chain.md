@@ -1,7 +1,8 @@
-# Gnosis Beacon Chain
+---
+description:
+---
 
-## Beacon Chain Explorer
-
-A fork of beaconcha.in tuned for the Gnosis Beacon Chain implementation.
-
-[https://beacon.gnosischain.com/](https://beacon.gnosischain.com/)
+{% hint style="info" %}
+**This document was moved**
+: [https://docs.gnosischain.com/tools](https://docs.gnosischain.com/tools)
+{% endhint %}

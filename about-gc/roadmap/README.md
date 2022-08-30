@@ -1,6 +1,8 @@
 ---
-description: Current & Future Directions for the Gnosis Chain
+description:
 ---
 
-# Roadmaps
-
+{% hint style="info" %}
+**This document was moved**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+{% endhint %}

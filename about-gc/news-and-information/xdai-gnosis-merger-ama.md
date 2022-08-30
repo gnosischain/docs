@@ -1,3 +1,12 @@
+---
+description:
+---
+
+{% hint style="info" %}
+**Documentation site was moved**
+: [https://docs.gnosischain.com](https://docs.gnosischain.com)
+{% endhint %}
+
 # xDai / Gnosis Merger AMA
 
 * **Time & Date**: 18:00 UTC November 15, 2021.

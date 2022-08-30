@@ -1,5 +1,8 @@
-# Buttons
+---
+description:
+---
 
-_Buttons in Process_
-
-[![](../../.gitbook/assets/xDai-bridge.svg)](https://bridge.xdaichain.com/) [![](../../.gitbook/assets/OmniBridge.svg)](https://omni.xdaichain.com/bridge)
+{% hint style="info" %}
+**This document was moved**
+: [https://docs.gnosischain.com/about/overview/media-kit](https://docs.gnosischain.com/about/overview/media-kit)
+{% endhint %}

@@ -1,12 +1,8 @@
 ---
-description: imToken multi-chain mobile crypto wallet
+description:
 ---
 
-# imToken
-
-**Wallet Type**: [`iOs`](https://itunes.apple.com/us/app/imtoken2/id1384798940) and [`Android Mobile Wallet`](https://play.google.com/store/apps/details?id=im.token.app)
-
-**Description**: [imToken](https://token.im) is a mobile wallet available on iOS and Android. imToken includes a built in exchange, DApp browser, and support for BTC, EOS, ATOM, BCH, TRX, LTC and more. imToken now supports Custom RPC endpoints, and xDai can easily be added using the Chainlist.org DApp.&#x20;
-
-{% embed url="https://twitter.com/imTokenOfficial/status/1374587875849687041" %}
-
+{% hint style="info" %}
+**This document was moved**
+: [https://docs.gnosischain.com/tools/wallets](https://docs.gnosischain.com/tools/wallets)
+{% endhint %}
