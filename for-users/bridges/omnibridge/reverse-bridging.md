@@ -1,5 +1,12 @@
 # Reverse Bridging
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 Tokens minted natively on xDai are now available to bridge to other destination chains, including Ethereum, BSC and POA. Note that you will need to pay gas costs for the destination chain (which can be quite high for Ethereum) with the destination currency (such as ETH or BSC) when bridging.
 
 **Bridging requires 2 steps:**

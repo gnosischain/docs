@@ -4,6 +4,13 @@ description: Option to approve all token transfers
 
 # Infinite Unlock
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 You must give approval to the bridge contracts to access and send ERC-20 tokens. This is similar to Uniswap or another DEX that asks for approval to spend your tokens.&#x20;
 
 You can give this permission on a per transaction basis, or you can unlock an unlimited amount to transfer with the infinite unlock option. Infinite unlock saves on transaction fees, but does introduce security risk if the contract is compromised. A 3rd party may have the ability to access all funds rather than a finite approved amount.

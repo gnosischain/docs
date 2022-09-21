@@ -4,6 +4,13 @@ description: Rebasing and Inflationary tokens
 
 # Exceptions and Special Cases
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 While most tokens can be freely transferred between chains, there are several exceptions where token properties create bridge-related issues.
 
 * Bridge operations are disabled for [Rebasing tokens](exceptions.md#rebasing-tokens).&#x20;
@@ -15,7 +22,8 @@ Rebasing tokens include an elastic function where supply can be increased or dec
 
 To prevent this, we have disabled bridging capability for rebasing type tokens. A partial token list is included below.
 
-
+
+
 
 | Name               | Symbol | Address                                    |
 | ------------------ | ------ | ------------------------------------------ |

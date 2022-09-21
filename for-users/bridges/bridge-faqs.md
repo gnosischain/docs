@@ -1,3 +1,5 @@
-# Bridge FAQs
 
-Please see the [Bridges: xDai Bridge & OmniBridge](../../about-gc/faqs/bridges-xdai-bridge-and-omnibridge.md) section of the FAQs.
+{% hint style="info" %}
+**This document was moved**
+: [https://docs.gnosischain.com/bridges/](https://docs.gnosischain.com/bridges/)
+{% endhint %}

@@ -4,6 +4,13 @@ description: Example transfer from xDai to BSC
 
 # BSC OmniBridge Example
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 Here we show the bridging steps to transfer STAKE on xDai to STAKE on BSC. The chain names are appended, so the bridged token is called "STAKE on xDai on BSC".
 
 ## What you need:

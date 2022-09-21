@@ -4,6 +4,13 @@ description: Set bridge to transfer funds to another address
 
 # Alternate Receiver
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 The default bridge mode sends funds to the same address across chains. However, it is easy to specify another address to receive funds on the chain you are bridging to. This may be desirable when sending funds from a multi-sig wallet ([like Gnosis Safe](omnibridge-+-gnosis-safe-app.md)), or as a transfer method to another address on a secondary chain.
 
 ## Set an Alternate Receiver:

@@ -5,6 +5,13 @@ description: Connext State Channels Bridge
 # State Channels Bridge (xDai/Polygon/ BSC/Fantom)
 
 {% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
+{% hint style="info" %}
 The xDai-Polygon (Matic)-BSC Bridge powered by [Connext](https://connext.network/) is developed by the [1Hive Collective](https://1hive.org/#/home), and not directly supported by the OmniBridge or xDai team. Use at your own risk. For questions or information, please see the [Connext Discord Channel](https://discord.gg/8YcWCfbp).
 
 :bee: [https://bridge.connext.network/](https://bridge.connext.network/)

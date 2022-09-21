@@ -6,6 +6,13 @@ description: >-
 
 # Binance-Peg Dai Token on xDai
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 The [Binance-Peg Dai Token](https://bscscan.com/token/0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3) can be bridged to xDai using the beta BSC-xDai Omnibridge. **However, this process DOES NOT mint native xDai**. Instead, the [Dai Token from BSC](https://blockscout.com/xdai/mainnet/tokens/0xFc8B2690F66B46fEC8B3ceeb95fF4Ac35a0054BC/token-transfers) is bridged across networks.&#x20;
 
 ![](../../../../.gitbook/assets/binance-bridge-warning.png)

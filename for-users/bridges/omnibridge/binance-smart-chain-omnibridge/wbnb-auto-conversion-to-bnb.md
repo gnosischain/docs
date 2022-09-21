@@ -6,6 +6,13 @@ description: >-
 
 # WBNB auto-conversion to BNB
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 The xDai to BSC Bridge now supports wrapped BNB (WBNB) to BNB conversions directly from Gnosis Chain. Tokens are transferred AND unwrapped to native BNB during the bridging process!
 
 1. Swap your token(s) for WBNB on xDai

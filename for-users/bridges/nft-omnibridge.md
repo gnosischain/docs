@@ -1,5 +1,12 @@
 # NFT OmniBridge
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 :bridge\_at\_night: OmniBridge architecture is flexible to include data and NFT transfers.&#x20;
 
 :white\_check\_mark: The NFT UI available at [https://nft.xdaichain.com/](https://nft.xdaichain.com/)&#x20;

@@ -1,5 +1,12 @@
 # Binance Smart Chain
 
+{% hint style="info" %}
+**New Documentation here**
+: [https://docs.gnosischain.com/](https://docs.gnosischain.com/)
+
+The information in this page may be outdated.
+{% endhint %}
+
 The **Binance Smart Chain (BSC) Omnibridge** allows users to move ERC20 tokens between Gnosis Chain and BSC. It is available as a dropdown item from the OmniBridge UI.
 
 See the submenu items for more:&#x20;
